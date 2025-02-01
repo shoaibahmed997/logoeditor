@@ -12,3 +12,4 @@
 **/*.heif
 node_modules/
 **/*.zip
+**/*.ico
