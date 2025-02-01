@@ -1,0 +1,14 @@
+# Ignore all image files, even in subfolders
+**/*.png
+**/*.jpg
+**/*.jpeg
+**/*.gif
+**/*.bmp
+**/*.tiff
+**/*.webp
+**/*.svg
+**/*.ico
+**/*.heic
+**/*.heif
+node_modules/
+**/*.zip
